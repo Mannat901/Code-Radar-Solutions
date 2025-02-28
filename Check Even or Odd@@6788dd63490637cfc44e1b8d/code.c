@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main(){
+int main(){
     int a;
     scanf("%d",&a);
     if(a%2==0){
@@ -8,4 +8,5 @@ void main(){
     else{
         printf("Odd");
     }
+    return 0;
 }
