@@ -3,7 +3,7 @@ int main(){
     int num,div;
     scanf("%d%d",&num,&div);
     if(num%div==0){
-        printf(Yes);
+        printf("Yes");
     }
     else{
         printf("No");
