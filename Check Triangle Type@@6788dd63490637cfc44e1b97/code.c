@@ -6,6 +6,7 @@ int main(){
         printf("Equilateral");
     }
     else if(a==b!=c){
-        printf(isoscales);
+        printf(Isoscales);
     }
+    return 0;
 }
