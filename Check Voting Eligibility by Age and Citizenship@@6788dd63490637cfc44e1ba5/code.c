@@ -1,4 +1,4 @@
-#inlcude <stdio.h>
+#include <stdio.h>
 int main(){
     int age,status;
     scanf("%d%d",&age,&status);
