@@ -4,17 +4,17 @@ int main(){
     char oper;
     scanf("%d%d%c",&a,&b,&oper);
     
-    if(oper==+){
+    if(oper=='+'){
         printf("%d",a+b);
     }
-    if(oper==-){
+    if(oper=='-'){
         printf("%d",a-b);
     }
-    if(oper==*){
+    if(oper=='*'){
         printf("%d",a*b);
     }
     v
-    if(oper== /){
+    if(oper== '/'){
         printf("%d",a/b);
     }
     return 0;
