@@ -8,7 +8,7 @@ int main(){
         printf("Lowercase");
     }
     else if(97<='c'&& 'c'<=122){
-        printf("uppecase");
+        printf("Uppecase");
     }
     else{
         printf("Not an alphabet");
