@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    char c;
+    int c;
     scanf("%d",&c);
     if(65<='c' && 'c'<=90){
         printf("Uppercase");
