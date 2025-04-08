@@ -2,7 +2,7 @@
 int main(){
     int N;
     for(int i=1;i<=N;i++){
-        printf("i")
+        printf("%d",i)
     }
     return 0;
 }
