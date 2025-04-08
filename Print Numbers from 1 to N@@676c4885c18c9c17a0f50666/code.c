@@ -4,5 +4,5 @@ int main(){
     for(int i=1;i<=N;i++){
         printf(i);
     }
-return 0;
+    return 0;
 }
